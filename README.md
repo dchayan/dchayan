@@ -1,87 +1,42 @@
-## Hi I'm Chayan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">Hi 👋, I'm Chayan Das</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm Chayan Das aka shadow a JavaScript Developer and Content Creator on [Youtube](https://youtube.com/channel/UCnWE_A2BxteklztTf1oVqWA). I Spend most of time coding, outstanding projects or in invent somthing.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=errormad&label=Profile%20views&color=00ffff&style=flat" alt="errormad" /> </p>
 
-:mailbox: Reach me out!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errormad" alt="errormad" /></a> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@chayan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShadowChayan)](https://twitter.com/ShadowChayan) [![Mail Badge](https://img.shields.io/badge/-DarkTechno-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCnWE_A2BxteklztTf1oVqWA) [![Linkedin Badge](https://img.shields.io/badge/-Chayan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Chayan/) [![Mail Badge](https://img.shields.io/badge/-@sp_scarlet_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sp_scarlet_) [![Mail Badge](https://img.shields.io/badge/-chayan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cdas01023@gmail.com)
+- 🔭 I’m currently working on [Discord Bot](https://discord.com/users/987377452558975016)
 
-<!-- TODO: Add last video link -->
+- 🌱 I’m currently learning **Computer courses**
 
-- 🔭 I’m currently studying at @Kolkata
-- :computer: Most used line of code `Title`
-- 🤔 I’m looking for study ideas.
-- 📫 Email: cdas01023@gmail.com.
-- 😄 Name: Chayan aka Shadow
-- ⚡ Fun fact: I study and play games.
+- 👯 I’m looking to collaborate on **Companies**
 
-#### Top Technologies
+- 🤝 I’m looking for help with **Coding**
 
-<!-- TODO: Make technologies links takes you to repositories -->
+- 👨‍💻 All of my projects are available at [https://github.com/errormad](https://github.com/errormad)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+- 📝 I regularly write articles on [Secret](Secret)
 
-#### Github Stats
+- 💬 Ask me about **JavaScript, HTML**
 
-![Chayan's github stats](https://github-readme-stats.vercel.app/api?username=errormad&count_private=true&theme=tokyonight&hide=contribs,prs)
+- 📫 How to reach me **cdas01023@gmail.com**
 
-### Tutorials
+- ⚡ Fun fact **I think I am bad but I am your dead**
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shadowchayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadowchayan" height="30" width="40" /></a>
+<a href="https://fb.com/chayan das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chayan das" height="30" width="40" /></a>
+<a href="https://instagram.com/sp_scarlet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sp_scarlet" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dark techno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dark techno" height="30" width="40" /></a>
+<a href="https://discord.gg/83KEqGCTUC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="83KEqGCTUC" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=errormad&show_icons=true&title_color=ff0000&text_color=0000ff&locale=en&layout=compact" alt="errormad" /></p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=errormad&show_icons=true&title_color=0000ff&text_color=0000ff&bg_color=00ffff&locale=en" alt="errormad" /></p>
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<br />
-<br />
-
-#### Business
-- :email: cdas01023@gmail.com
-
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shadowchayan.visitor-badge)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers!
-
-#### What is Dark Techno?
-
-Dark Techno is a youtube channel for Gaming, sometime i also used to make videos about tutorial or to advertise companies.
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-text
-JavaScript   10 hrs 50 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        1.69 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         0.69 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-<!--END_SECTION:waka-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errormad&theme=highcontrast" alt="errormad" /></p>
