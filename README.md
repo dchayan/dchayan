@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **cdas01023@gmail.com**
 
-- ⚡ Fun fact **I think I am bad but I am your dead**
+- ⚡ Fun fact **I think I am bad but I am your dad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
