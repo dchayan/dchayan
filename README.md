@@ -14,13 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dchayan](https://github.com/dchayan)
 
-- 📝 I regularly write articles on [Secret](Secret)
-
 - 💬 Ask me about **JavaScript, HTML**
 
 - 📫 How to reach me **cdas01023@gmail.com**
-
-- ⚡ Fun fact **I think I am bad but I am your dead**
 
 <h3 align="left">Connect with me:</h3>
 
