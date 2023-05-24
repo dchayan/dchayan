@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Chayan Das</h1>
+<h1 align="center">Hi, I'm Chayan Das</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=errormad&label=Profile%20views&color=00ffff&style=flat" alt="errormad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dchayan&label=Profile%20views&color=00ffff&style=flat" alt="errormad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errormad" alt="errormad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dchayan" alt="dchayan" /></a> </p>
 
 - 🔭 I’m currently working on [Discord Bot](https://discord.com/users/\857650250940547115)
 
